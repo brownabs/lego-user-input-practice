@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="lego.css">
+
+</head>
+<body>
+    <fieldset>
+        <label for="legoCreator">Creator:</label>
+        <input id="legoCreator" name="legoCreator" type="text" autofocus />
+        <button class="saveButton" id="legoCreatorSave">Save Creator</button>
+    </fieldset>
+   
+    <fieldset>
+        <label for="legoColor">Color:</label>
+        <select id="legoColor">
+                <option value="1">Red</option>
+                <option value="2">Green</option>
+                <option value="3">Yellow</option>
+                <option value="4">Blue</option>
+                <option value="5">Orange</option>
+                <option value="6">Black</option>
+            </select>
+        <button class="saveButton" id="legoColorSave">Save Color</button>
+    </fieldset>
+    <fieldset>
+            <label for="legoShape">Shape:</label>
+            <input id="legoShape" name="legoShape" type="text" autofocus />
+            <button class="saveButton" id="legoShapeSave">Save Shape</button>
+    </fieldset>
+    <fieldset>
+            <label for="legoCreation">Creation:</label>
+            <input id="legoCreation" name="legoCreation" type="text" autofocus />
+            <button class="saveAllButton" id="legoCreationSave">Save All</button>
+    </fieldset>
+
+    
+</body>
+<script type="module" src="lego.js"></script>
+
+</html>

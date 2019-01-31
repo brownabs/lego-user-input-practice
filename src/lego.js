@@ -1,6 +1,6 @@
 document.querySelector(".saveAllButton").addEventListener("click", event => {
     const creator = document.querySelector("#legoCreator").value
-    const color = document.querySelector("#legoColor").value
+    const color = document.querySelector("#colors").value
     const shape = document.querySelector("#legoShape").value
     const creation = document.querySelector("#legoCreation").value
 
@@ -18,4 +18,6 @@ document.querySelector(".saveAllButton").addEventListener("click", event => {
         body: JSON.stringify(legoToSave)
     })
 })
+
+
 

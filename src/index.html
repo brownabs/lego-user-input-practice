@@ -12,25 +12,15 @@
     <fieldset>
         <label for="legoCreator">Creator:</label>
         <input id="legoCreator" name="legoCreator" type="text" autofocus />
-        <button class="saveButton" id="legoCreatorSave">Save Creator</button>
     </fieldset>
    
     <fieldset>
         <label for="legoColor">Color:</label>
-        <select id="legoColor">
-                <option value="1">Red</option>
-                <option value="2">Green</option>
-                <option value="3">Yellow</option>
-                <option value="4">Blue</option>
-                <option value="5">Orange</option>
-                <option value="6">Black</option>
-            </select>
-        <button class="saveButton" id="legoColorSave">Save Color</button>
+        <select id="colors" class="selectColors"></select>
     </fieldset>
     <fieldset>
             <label for="legoShape">Shape:</label>
             <input id="legoShape" name="legoShape" type="text" autofocus />
-            <button class="saveButton" id="legoShapeSave">Save Shape</button>
     </fieldset>
     <fieldset>
             <label for="legoCreation">Creation:</label>
@@ -40,6 +30,7 @@
 
     
 </body>
+<script type="module" src="dropDown.js"></script>
 <script type="module" src="lego.js"></script>
 
 </html>

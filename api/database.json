@@ -13,6 +13,119 @@
       "shape": "block",
       "creation": "lego",
       "id": 2
+    },
+    {
+      "creator": "abbey",
+      "color": "3",
+      "shape": "block",
+      "creation": "lego",
+      "id": 3
+    },
+    {
+      "creator": "Dr. Pepper",
+      "color": "3",
+      "shape": "round",
+      "creation": "a coke can",
+      "id": 4
+    },
+    {
+      "creator": "abbey",
+      "color": "2",
+      "shape": "duck",
+      "creation": "rubber duck",
+      "id": 5
+    },
+    {
+      "creator": "abbey",
+      "color": "2",
+      "shape": "duck",
+      "creation": "rubber duck",
+      "id": 6
+    },
+    {
+      "creator": "abbey",
+      "color": "2",
+      "shape": "duck",
+      "creation": "rubber duck",
+      "id": 7
+    },
+    {
+      "creator": "abbey",
+      "color": "3",
+      "shape": "duck",
+      "creation": "rubber duck",
+      "id": 8
+    },
+    {
+      "creator": "abbey",
+      "color": "1",
+      "shape": "ducl",
+      "creation": "duck",
+      "id": 9
+    },
+    {
+      "creator": "abbey",
+      "color": "1",
+      "shape": "duck",
+      "creation": "duck",
+      "id": 10
+    },
+    {
+      "creator": "abbey",
+      "color": "1",
+      "shape": "duck",
+      "creation": "duck",
+      "id": 11
+    },
+    {
+      "creator": "abbey",
+      "color": "1",
+      "shape": "duck",
+      "creation": "duck",
+      "id": 12
+    },
+    {
+      "creator": "abbey",
+      "color": "1",
+      "shape": "duck",
+      "creation": "abbey's duck",
+      "id": 13
+    },
+    {
+      "creator": "abbey",
+      "color": "1",
+      "shape": "duck",
+      "creation": "abbey's duck",
+      "id": 14
+    },
+    {
+      "creator": "efwa",
+      "color": "3",
+      "shape": "dca",
+      "creation": "dsaf",
+      "id": 15
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "Red"
+    },
+    {
+      "id": 2,
+      "name": "Green"
+    },
+    {
+      "id": 3,
+      "name": "Blue"
+    },
+    {
+      "id": 4,
+      "name": "Yellow"
+    },
+    {
+      "id": 5,
+      "name": "Pink"
     }
   ]
 }
